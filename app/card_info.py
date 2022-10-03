@@ -15,7 +15,7 @@ class Card:
 cr_cards = [
     Card(
         "Skeletons",
-        "not available atm",
+        "skeletons.jpeg",
         "90%",
         "Common",
         1,
@@ -23,7 +23,7 @@ cr_cards = [
     ),
     Card(
         "Electro Spirit",
-        "not available atm",
+        "electro_spirit.jpeg",
         "90%",
         "Common",
         1,
@@ -31,7 +31,7 @@ cr_cards = [
     ),
     Card(
         "Ice Spirit",
-        "not available atm",
+        "ice_spirit.jpg",
         "90%",
         "Common",
         1,
@@ -39,7 +39,7 @@ cr_cards = [
     ),
     Card(
         "Fire Spirit",
-        "not available atm",
+        "fire_spirit.jpeg",
         "60%",
         "Common",
         1,
@@ -47,7 +47,7 @@ cr_cards = [
     ),
     Card(
         "Heal Spirit",
-        "not available atm",
+        "heal_spirit.jpg",
         "60",
         "Rare",
         1,
@@ -55,7 +55,7 @@ cr_cards = [
     ),
     Card(
         "Mirror",
-        "not available atm",
+        "mirror.jpeg",
         "80%",
         "Epic",
         0,
@@ -63,7 +63,7 @@ cr_cards = [
     ),
     Card(
         "Goblins",
-        "not available atm",
+        "goblins.jpg",
         "50%",
         "Common",
         2,
@@ -71,7 +71,7 @@ cr_cards = [
     ),
     Card(
         "Bomber",
-        "not available atm",
+        "bomber.jpeg",
         "70%",
         "Common",
         2,
@@ -79,7 +79,7 @@ cr_cards = [
     ),
     Card(
         "Spear Goblins",
-        "not available atm",
+        "spear_goblins.jpeg",
         "60%",
         "Common",
         2,
@@ -87,20 +87,20 @@ cr_cards = [
     ),
     Card(
         "Ice Golem",
-        "not available atm",
+        "ice_golem.jpeg",
         "90%",
         "Rare",
         2,
         "Card_description",
     ),
-    Card("Bats", "not available atm", "70%", "Common", 2, "Card_description"),
-    Card("Wall Breakers", "not available atm", "60%", "Epic", 2, "Card_description"),
-    Card("Musketeer", "not available atm", "90%", "Rare", 4, "Card_description"),
-    Card("Hog Rider", "not available atm", "80%", "Rare", 4, "Card_description"),
-    Card("Mini Pekka", "not available atm", "90%", "Rare", 4, "Card_description"),
+    Card("Bats", "bats.jpg", "70%", "Common", 2, "Card_description"),
+    Card("Wall Breakers", "wall_breakers.jpeg", "60%", "Epic", 2, "Card_description"),
+    Card("Musketeer", "musky.jpg", "90%", "Rare", 4, "Card_description"),
+    Card("Hog Rider", "hog_rider.jpg", "80%", "Rare", 4, "Card_description"),
+    Card("Mini Pekka", "mini_pekka.jpg", "90%", "Rare", 4, "Card_description"),
     Card(
         "MegaKnight",
-        "not available atm",
+        "megaknight.",
         "80%",
         "Legendary",
         7,
