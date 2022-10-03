@@ -1,0 +1,216 @@
+princess: This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings
+    towards her, it's probably because you're on fire.
+
+skeletons: Three fast, very weak melee fighters. Surround your enemies 
+    with this pile of bones!
+
+hog rider: Fast melee troop that targets buildings and can jump over river. He followed
+    the echoing call of "Hog Riderrrrr" all the way through the Arena doors.
+
+cannon: Defensive building. Shoots cannonballs with deadly effect, but
+    cannot target flying troops
+
+arrows: Arrows pepper a large area, damaging all enemies hit. Reduced damage
+    to Crown Towers
+
+miner: The Miner can burrow his way underground and appear anywhere in the Arena. It's
+    not magic, it's a shovel. A shovel that deals reduced damage to the Crown Towers.
+
+megaknight: He lands with the force of 1,000 mustaches, then jumps from one foe to 
+    the next dealing huge area damage. Stand aside!
+
+pekka: A heavily armoured, slow melee fighter. Swings from the hip, but packs a 
+    huge punch.
+
+dart goblin: Runs fast, shoots far, and chews gum. How does he blow darts with a 
+    mouthful of Double Trouble Gum? Years of dideridoo lessons.
+
+earthquake: Deals damage per second to Troops and Crown Towers. Deals huge Building
+    damage! Does not affect flying units. (It is an EARTHquake, after all)
+
+musketeer: Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot
+    with her trusty boomstick.
+
+mini pekka: The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A,
+    only destruction.
+
+fireball: Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage
+    to Crown Towers
+
+elite barbs: Spawns a paid of leveled up Barbarians. They're like regular Barbarians, only
+    harder, better, faster, and stronger.
+
+log: A spilt bottle of Rage turned an innocent tree trunk into "The Log". Now, it seeks revenge by
+    crushing anything in its path. Reduced damage to Crown Towers.
+
+electro wizard: He lands with a "POW!", stuns nearby enemies and shoots lightning with
+    both hands! What a show off.
+
+dark prince: The Dark Prince deals area damage and lets his spiked club do the talking for him -
+    because when he does talk, it sounds like he has a bucket on his head.
+
+ice golem: He's tough, targets, buildings, and explodes when destroyed, slowing nearby enemies.
+    Made entirely out of ice...or is he?! Yes.
+
+wizard: The most awesome man to ever set foot in the Arena, the Wizard will blow you away
+    with his handsomeness... and/or fireballs
+
+flying machine: The Master Builder has sent his first contraption to the Arena! It's a fast
+    and fun flying machine, but fragile.
+
+mortar: Defensive building with a long range. Shoots big boulders that deal area damage, but 
+    cannot hit targets that get too close!
+
+ice spirit: Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.
+
+fire spirit: The Fire Spirit is on a kamikaze mission to give you a warm hug. It'd be
+    adorable if it wasn't on fire
+
+electro spirit: Jumps on enemies, dealing Area Damage and stunning up to 9 enemy Troops.
+    Locked in an eternal battle with knight for the best mustache.
+
+heal spirit: A mischievous Spirit that leaps at enemies, dealing damage and leaving behind a
+    powerful healing effect that restores Hitpoints to friendly Troops!
+                                
+                               (R.I.P. Heal
+                                2017-2020
+                            Alas, we hardly used ye.)
+
+mirror: Mirrors your last card played for +1 Elixir. Does not appear in your starting hands
+
+goblins: Three fast, unarmoured melee attackers. Small, fast, green, and mean!
+
+bomber: Small, lightly protected skeleton who throws bombs. Deals area damage that can wipe out
+    swarms of enemies.
+
+spear goblins: Three unarmoured rnaged attackers. Who the heck taught these guys to throw spears!?
+    Who thought that was a good idea?!
+
+bats: Spawns a handful of tiny flying creatures. Think of them as sweet, purple...balls of 
+    DESTRUCTION!
+
+wall breakers: A daring duo of dangerous dive bombers. Nothing warms a Wall Breaker's cold 
+    and undead heart like blowing up buildings.
+
+rage: Increases troop movement and attack speed. Buildings attack quicker and summon troops 
+    quicker, too. Chaaaarge!
+
+zap: Zap enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage
+    Crown Towers.
+
+barb barrel: It rolls over and damages anything in its path, then breaks open and out pops a 
+    Barbarian! How did he get inside?!
+
+giant snowball: It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. 
+    Enemies hit are knocked back and slowed down temporarily. Reduced damages to Crown Towers
+
+knight: A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he
+    was knighted based on the sheer awesomeness of his mustache alone.
+
+archers: A pair of lightly armoured ranged attackers. They'll help you take down ground and
+    air units, but you're on your own with hair coloring advice.
+
+minions: Three fast, unarmoured fying attackers. Roses are red, minions are blue, they can
+    fly, and will crush you!
+
+skarmy: Spawns an army of skeletons. Meet Larry and his friends Harry, Gerry, Terry,
+    Mary, etc.
+
+ice wizard: This chill caster throws ice shards that slow down enemies' movement and attack
+    speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.
+
+guards: Three ruthless bone brothers with shields. Knock off their shields and all that's left 
+    are three ruthless bone brothers.
+
+mega minion: Flying, armoured, and powerful. What could be its weakness?! CUPCAKES?
+
+goblin gang: Spawns five Goblins - three with knives, two with a spear - at a discounted 
+    Elixir cost. It's like a Goblin Value Pack!
+
+bandit: The Bandit dashes to her target and delivers an extra big hit! While dashing, she
+    can't be touched. The mask keeps her identity safe and givers her bonus cool points!
+
+royal ghost: He drifts invisibly through the Arena until he's startled by an enemy...then
+    he attacks! Then he's invisible again! Zzzz.
+
+skelly barrel: It's a Skeleton party in the sky, until all the balloons pop...then it's
+    a Skeleton party on the ground!
+
+three musketeers: Trio of powerful, independent markswomen, fighting for justice and honor.
+    Disrespecting them would not be just a mistake, it would be a cardinal sin!
+
+golem: Slow but durable, only attacks buildings. When destroyed, explosively splits into 
+    two Golemites and deals area damage!
+
+barb hut: Building that periodically spawns Barbarians to fight the enemy. Time to
+    make the Barbarians!
+
+electro giant: He channels electricity through his Zap Pack, a unique device that stuns
+    and damages any Troop attacking him within its range. Oh, and don't tell him his finger
+    guns aren't real! He will zap you!
+
+royal recruits: Deploys a line of recruits armed with spears, shields, and wooden buckets.  
+    They dream of ponies and one day wearing metal buckets.
+
+lava hound: The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups 
+    are less magestic angry babies that attack anything.
+
+lightning: Bolts of lightning damage and stun up to three enemy troops and/or buildings with 
+    most hitpoints in target area. Reduced damages to Crown Towers.
+
+rocket: Deals high dmaage to a small area. Looks really awesome doing it. Reduced damage 
+    to Crown Towers.
+
+xbow: Nice tower you got over there. Would be a shame if this X-bow whittled it down...
+    From this side of the Arena!
+
+elixir collector: You gotta spend Elixir to make Elixir! This building makes 8 Elixir  
+    over its Lifetime. Does not appear in starting hand.
+
+goblin giant: This jolly green Goblin Giant stomps towards enemy buildings. He carries two
+    Spear Goblins everywhere he goes. It's a weird but functional arrangement.
+
+sparky: Sparky slowly charges up, then unloads MASSIVE area damage. So yeah, overkill
+    isn't in her vocabulary.
+
+royal giant: Destroying enemy buildings with his massive cannons is his job; making a raggedy
+    blonde beard look good in his passion.
+
+giant skeleton: The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up
+    when the Giant Skeleton dies.
+
+graveyard: Suprise! It's a party. A skeleton party, anywhere in the Arena. Yay!
+
+inferno tower: Defensive building, roasts targets for damage that increases over time.
+    Burns through even the biggest and toughest enemies!
+
+goblin hut: Building that spawns Spear Goblins. Don't go inside... You don't want
+    to see how they're made.
+
+
+archer queen: She is fast, deadly, and hard to catch. Beware of her crossbow and try 
+    not to blink - you might miss her!
+
+electro drag: Spits out bolts of electricity hitting up to three targers. Suffers from middle
+    child syndrome to boot.
+
+royale hogs: The King's personal pets are loose! They love to chomp on apples and Towers    
+    alike- who let the hogs out ?!
+
+cannon cart: A Cannon on wheels?! Bet they won't see that coming! Once you break its shield,
+    it becomes a Cannon not on wheels.
+
+rascals: Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt
+    enemies from behind... with slingshots full of Double Trouble Gum!
+
+ram rider: Together they charge through the Arena; snaring enemies, knocking down towers
+    ...and chewing grass?
+
+executioner: He throws nis axe like a boomerang striking all enemies on the way out AND back.
+    It's a miracle he doesn't lose an arm.
+
+bowler: This big blue dude digs the simple things in life - Dark Elixir drinks and throwing
+    rocks. His massive boulders roll through their target, hitting everyting behind for a strike!
+
+    
+minion horder: Six fast, unarmoured flying attackers. Three's a crowd but 6 is a horde!
