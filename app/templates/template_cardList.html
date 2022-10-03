@@ -1,0 +1,21 @@
+{% extends "template_base.html" %} {% block content %}
+<div class="page_container">
+  <div class="cardList_headingTitle_container">
+    <h1>All Clash Royale Cards</h1>
+  </div>
+  <div class="cardList_allCardContainer">
+    {% for i in cards %}
+    <a href="{{ i.cardName }}/">
+      <div class="{{ i.cardName }}CardContainer">
+        <p class="{{ i.cardName }}Text">{{i.cardName}}</p>
+        <img
+          class="{{ i.cardName }}_image_tag"
+          href="{{i.cardPictureLocation }}"
+          alt="{{ i.cardName }} Picture"
+        />
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endblock content %}
