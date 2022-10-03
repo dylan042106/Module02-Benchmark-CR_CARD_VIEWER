@@ -212,5 +212,4 @@ executioner: He throws nis axe like a boomerang striking all enemies on the way 
 bowler: This big blue dude digs the simple things in life - Dark Elixir drinks and throwing
     rocks. His massive boulders roll through their target, hitting everyting behind for a strike!
 
-    
-minion horder: Six fast, unarmoured flying attackers. Three's a crowd but 6 is a horde!
+minion horde: Six fast, unarmoured flying attackers. Three's a crowd but 6 is a horde!
