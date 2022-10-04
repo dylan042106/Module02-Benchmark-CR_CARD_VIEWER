@@ -8,7 +8,7 @@ hog rider: Fast melee troop that targets buildings and can jump over river. He f
     the echoing call of "Hog Riderrrrr" all the way through the Arena doors.
 
 cannon: Defensive building. Shoots cannonballs with deadly effect, but
-    cannot target flying troops
+    cannot target flying troops.
 
 arrows: Arrows pepper a large area, damaging all enemies hit. Reduced damage
     to Crown Towers
@@ -176,6 +176,8 @@ sparky: Sparky slowly charges up, then unloads MASSIVE area damage. So yeah, ove
 royal giant: Destroying enemy buildings with his massive cannons is his job; making a raggedy
     blonde beard look good in his passion.
 
+giant: Slow but durable, only attacks buildings. A real one-man crew!
+
 giant skeleton: The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up
     when the Giant Skeleton dies.
 
@@ -213,3 +215,93 @@ bowler: This big blue dude digs the simple things in life - Dark Elixir drinks a
     rocks. His massive boulders roll through their target, hitting everyting behind for a strike!
 
 minion horde: Six fast, unarmoured flying attackers. Three's a crowd but 6 is a horde!
+
+prince: Don't let the little pony fool you. Once the Prince gets a running start, you WILL 
+    be trampled. Deals double damage once he gets charging.
+
+barbarians: A horde of melee attackers with mean mustaches and even meaner tempers.
+
+witch: Summons skeletons, shoots destructo beams, has glowing pink eyes that unfortunately
+    don't shoot lasers.
+
+balloon: As pretty as they are, you won't want a parade of THESE balloons showing up on the 
+    horizon. Drops powerful bombs and when shot down, crashes dealing area damage.
+
+poison: Covers the area in a deadly toxin, damaging enemy troops and buildings over time. Yet
+    somehow still leaves the grass green and healthy. Go figure! Reduced damage to Crown Towers.
+
+freeze: Freezes and damages enemy troops and buildings making them unable to move or attack.
+    Everybody chill. Reduced damage to Crown Towers.
+
+goblin drill: Building capable of burrowing underground and appearing anywhere in the Arena.
+    Spawns Goblins one at a time until destroyed. Then spawns a few more, to make sure everything
+    nearby has been properly stabbed.
+
+goblin cage: When the Goblin Cage is destroyed, a Goblin Brawler is unleashed into the Arena! 
+    Goblin Brawler always skips leg day.
+
+furnace: The Furnace spawns one Fire spirit at a time. It also makes great brick-oven pancakes.
+
+tesla: Defensive building. Whenever it's not zapping the enemy, the power of Electrickery
+    is best kept underground.
+
+bomb tower: Defensive building that houses a Bomber. Deals area damage to anything dumb enough to  
+    stand near it.
+
+mother witch: Places a curse on enemy troops with each attack. When a cursed Troop is destroyed,
+    it tunrs into a building-targeting Hog that fights alongside the Mother Witch!
+
+skelly drags: This pair of skeletal scorchers deal area damage and fly above the Arena. They also 
+    play a mean rib cage xylophone duet.
+
+golden knight: A warrior with luxurious hair and oustanding flexibility. Demonstrates his aerobics skills  
+    on demand.
+
+skelly king: The King of the undead himself. He sometimes feels lonely (could be die to his nonflattering
+    features) and will summon friends to join him in the battle even after death. Tough guys have 
+    feelings too!
+
+battle healer: With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself
+    and friendly Troops. When she isn't attacking, she passively heals herself!
+
+mighty miner: Walk softly... and carry a big drill! This Champion delas increasing damage to his target 
+    and can switch lanes to escape combat or change attack plans. This makes him not only the mightiest,    
+    but also the sneakiest Miner in the Arena.
+
+magic archer: Not quite a Wizard, nor an Archer - he shoots a magic arrow that passes through and damages 
+    all enemies in its path. It's not a trick, it's magic!
+
+zappies: Spawns a pack of miniature Zap machines. Who controls them? Only the Master Builder knows.
+
+night witch: Summons bats to do her bidding! If you get too close, she's not afraid of pitching in with
+    her mean-looking battle staff
+
+hunter: He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for 
+    with his impressively bushy eyebrows.
+
+inferno drag: Shoots a focused beam of fire that increases in damage over time. Wears a helmet because
+    flying can be dangerous.
+
+battle ram: Two Barbarians holding a big log charge at the nearest building, dealing significant damage
+    if they connect; then they go to town with their swords.
+
+lumberjack: He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when 
+    he's defeated.
+
+fisherman: His ranged attack can pull enemies towards him and he can pull himself to enemy buildings. 
+    He's also mastered the ancient art of Fish Slapping.
+
+fire cracker: Shoots a firework that explodes upon impact, damaging the target and showering anything
+    directly behind it with sparks. This is what happens when Archers get bored!
+
+elixir golem: Splits into two Elixir Golemites when destroyed, which splits into two Sentient Blobs
+    when defeated. Each part of the Elixir Golem gives your opponent some Elixir when destroyed!
+
+valkrie: Tough melee fighter, deals area damage around her. Swarms or horde, no problem! She can take them all out with a few spins.
+
+clone: Duplicates all friendly troops in the target area. Cloned troops are fragile but pack the same punch as the original! Doesn't affect buildings.
+
+goblin barrel: Spawns three goblins anywhere in the Arena. It's going to be a thrilling ride, boys!
+
+tornado: Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet.
+
