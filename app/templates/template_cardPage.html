@@ -1,11 +1,12 @@
-{% extends "template_base.html" %} {% block content%}
+{% extends "template_base.html" %} {% load static %} {% block content%}
 <div class="page_container_cardPage">
   <div class="cardPage_heading_cardname">
     <h1>{{ name }}</h1>
     <p>{{ rarity }}</p>
   </div>
   <div class="cardPage_image_container">
-    <img src="/images/{{ picture }}" alt="{{ name }} Picture" />
+    <img src="{% static "/images/{{ picture }}.png" %}" alt="{{ name }} Picture"
+    />
   </div>
   <div class="cardPage_description_container">
     <p>{{ description }}</p>

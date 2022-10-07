@@ -15,7 +15,7 @@ class Card:
 cr_cards = [
     Card(
         "Skeletons",
-        "skeletons.png",
+        "skeletons",
         "90/100",
         "Common",
         1,
@@ -23,7 +23,7 @@ cr_cards = [
     ),
     Card(
         "Musketeer",
-        "musky.png",
+        "musky",
         "90/100",
         "Rare",
         4,
@@ -31,7 +31,7 @@ cr_cards = [
     ),
     Card(
         "Hog Rider",
-        "hog_rider.png",
+        "hog_rider",
         "80/100",
         "Rare",
         4,
@@ -39,7 +39,7 @@ cr_cards = [
     ),
     Card(
         "Mini Pekka",
-        "mini_pekka.png",
+        "mini_pekka",
         "90/100",
         "Rare",
         4,
@@ -47,7 +47,7 @@ cr_cards = [
     ),
     Card(
         "MegaKnight",
-        "mk.png",
+        "mk",
         "80/100",
         "Legendary",
         7,
@@ -55,7 +55,7 @@ cr_cards = [
     ),
     Card(
         "Pekka",
-        "pekka.png",
+        "pekka",
         "80/100",
         "Epic",
         7,
@@ -71,7 +71,7 @@ cr_cards = [
     ),
     Card(
         "Tornado",
-        "tornado.png",
+        "tornado",
         "100/100",
         "Epic",
         3,
