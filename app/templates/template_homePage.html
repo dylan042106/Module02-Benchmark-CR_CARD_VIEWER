@@ -1,20 +1,28 @@
-{% extends "template_base.html" %} {% block content %}
+{% extends "template_base.html" %} {% block content %} {% load static %}
 <div class="page_content_container">
-  <div class="Heading_title_container">
+  <div class="heading_title_container">
     <h1 class="home_heading_title">Clash Royale Cards</h1>
   </div>
   <div class="home_intro_container">
     <p class="home_intro_paragraph">
       Hello and welcome to Clash Royale Cards, the websites that gives you an
-      informational description of Clash Royale cards plus my own personal
-      opinion from experience in using these cards. Please select a section down
+      informational description of Clash Royale cards. Please select a card down
       below
     </p>
   </div>
-  <div class="nav_section">
-    <div class="card_list_navigation_container">
-      <a class="card_list_link" href="temp_cardList/">Show All Cards</a>
-    </div>
+  <div class="cardList_allCardContainer">
+    {% for i in cards %}
+    <a class="link_tag {{ i.cardName }}" href="{{ i.cardName }}/">
+      <div class="{{ i.cardName }}CardContainer">
+        <p class="textAboveCard {{ i.cardName }}">{{i.cardName}}</p>
+        <img
+          class="{{ i.cardName }}_image_tag"
+          src="{% static 'images/' %}{{ i.cardName }}.png"
+          alt="{{ i.cardName }} Picture"
+        />
+      </div>
+    </a>
+    {% endfor %}
   </div>
 </div>
 {% endblock content %}

@@ -5,7 +5,6 @@ from typing import List
 @dataclass
 class Card:
     cardName: str
-    cardPictureLocation: str
     cardRating: str
     cardRarity: str
     cardElixirCost: int
@@ -15,7 +14,6 @@ class Card:
 cr_cards = [
     Card(
         "Skeletons",
-        "skeletons",
         "90/100",
         "Common",
         1,
@@ -23,7 +21,6 @@ cr_cards = [
     ),
     Card(
         "Musketeer",
-        "musky",
         "90/100",
         "Rare",
         4,
@@ -31,7 +28,6 @@ cr_cards = [
     ),
     Card(
         "Hog Rider",
-        "hog_rider",
         "80/100",
         "Rare",
         4,
@@ -39,7 +35,6 @@ cr_cards = [
     ),
     Card(
         "Mini Pekka",
-        "mini_pekka",
         "90/100",
         "Rare",
         4,
@@ -47,7 +42,6 @@ cr_cards = [
     ),
     Card(
         "MegaKnight",
-        "mk",
         "80/100",
         "Legendary",
         7,
@@ -55,7 +49,6 @@ cr_cards = [
     ),
     Card(
         "Pekka",
-        "pekka",
         "80/100",
         "Epic",
         7,
@@ -63,7 +56,6 @@ cr_cards = [
     ),
     Card(
         "Barbarian Hut",
-        "barbarian_hut.png",
         "10/100",
         "Rare",
         7,
@@ -71,7 +63,6 @@ cr_cards = [
     ),
     Card(
         "Tornado",
-        "tornado",
         "100/100",
         "Epic",
         3,

@@ -5,15 +5,11 @@ from django.http.response import HttpResponse
 
 
 def home_page_view(request):
-    return render(request, "template_homePage.html")
-
-
-def cardList_page_view(request):
     cards = card_info.cr_cards
     context = {
         "cards": cards,
     }
-    return render(request, "template_cardList.html", context)
+    return render(request, "template_homePage.html", context)
 
 
 def singleCardPageView(request, card_name):
@@ -22,7 +18,6 @@ def singleCardPageView(request, card_name):
         if i.cardName == card_name:
             context = {
                 "name": i.cardName,
-                "picture": i.cardPictureLocation,
                 "rating": i.cardRating,
                 "rarity": i.cardRarity,
                 "elixirCost": i.cardElixirCost,

@@ -2,20 +2,22 @@
 <div class="page_container_cardPage">
   <div class="cardPage_heading_cardname">
     <h1>{{ name }}</h1>
-    <p>{{ rarity }}</p>
+    <p class="card_rarity {{ name }}">Card Rarity: {{ rarity }}</p>
   </div>
-  <div class="cardPage_image_container">
-    <img src="{% static "/images/{{ picture }}.png" %}" alt="{{ name }} Picture"
-    />
+  <div class="cardPage_image container">
+    <img src="{% static 'images/' %}{{ name }}.png" alt="{{ name }} Picture" />
   </div>
   <div class="cardPage_description_container">
-    <p>{{ description }}</p>
+    <p class="description_card {{ name }}">{{ description }}</p>
   </div>
   <div class="cardPage_elixirCost_container">
-    <p>{{ elixirCost }}</p>
+    <p class="elixir_card {{ name }}">Elixir Cost: {{ elixirCost }}</p>
   </div>
   <div class="cardPage_rating_container">
-    <p>{{ rating }}</p>
+    <p class="rating_card {{ name }}">Card Rating: {{ rating }}</p>
+  </div>
+  <div class="back_button">
+    <p>Back</p>
   </div>
 </div>
 {% endblock content %}

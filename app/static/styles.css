@@ -1,0 +1,84 @@
+body {
+  background-color: darkslateblue;
+  color: white;
+}
+
+.heading_title_container {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.page_content_container {
+  width: 70%;
+  margin: auto;
+}
+
+.link_tag {
+  color: white;
+  text-decoration: none;
+}
+
+.cardList_allCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 7em;
+  gap: 2em;
+}
+
+img {
+  width: 200px;
+}
+
+.home_intro_container {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.textAboveCard {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/* SINGLE CARD PAGE*/
+.page_container_cardPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardPage_description_container {
+  text-align: center;
+}
+
+.card_rarity {
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.rating_card {
+  font-size: 1.4rem;
+}
+
+.description_card {
+  font-size: 1.4rem;
+}
+
+.elixir_card {
+  font-size: 1.4rem;
+}
+
+.back_button {
+  width: 6em;
+  height: 6em;
+  border-radius: 50%;
+  background-color: rgb(31, 26, 60);
+  text-align: center;
+}
